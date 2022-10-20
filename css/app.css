@@ -49,12 +49,15 @@ h2 {
     transform: rotate(-45deg);
     transition: transform 0.5s;
     text-shadow: 0 0 5px #01579b;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 #belize {
-    background-color: #4dd0e1;
+    background-color: #171696;
+    box-shadow: -4px 4px 2px 0 rgba(27, 10, 104, 0.4);
 }
 
 #barcelona {
-    background-color: #800000;
+    background-color: #DB0030;
+    box-shadow: -4px 4px 2px 0 rgba(133, 5, 5, 0.4);
 }
